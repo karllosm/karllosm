@@ -1,6 +1,6 @@
 # Hi, I'm Karllos
 
-**Electrotechnics Student at IFRO 
+**Electrotechnics Student at IFRO**
 
 I'm an **Electrotechnics student at IFRO** interested in robotics, electronics, embedded systems and automation.
 
