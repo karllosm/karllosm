@@ -10,4 +10,4 @@ I like building things that combine **hardware, software and mechanical design**
 
 `C++` · `Python` · `Arduino` · `ESP32` `· ``Fusion 360` 
 
-### *Build. Test. Improve.*
+.
