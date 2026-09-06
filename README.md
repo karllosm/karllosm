@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Karllos
 
-<!--
-**karllosm/karllosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrotechnics Student at IFRO | Robotics & Embedded Systems**
 
-Here are some ideas to get you started:
+I'm an **Electrotechnics student at IFRO** interested in robotics, electronics, embedded systems and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building things that combine **hardware, software and mechanical design**.
+
+### Tools & Technologies
+
+`C++` · `Python` · `Arduino` · `ESP32` `· ``Fusion 360` 
+
+### *Build. Test. Improve.*
