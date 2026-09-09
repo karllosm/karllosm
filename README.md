@@ -8,6 +8,6 @@ I like building things that combine **hardware, software and mechanical design**
 
 ### Tools & Technologies
 
-`C++` · `Python` · `Arduino` · `ESP32` `· `Fusion 360`
+`C++` · `Python` · `Arduino` · `ESP32` `· 
 
 .
